@@ -1,0 +1,2 @@
+# ayarsuz--wiki
+AyarsuzBOT Wiki
